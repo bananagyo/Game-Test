@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: c1fa33ad182ba1e4bb2baab3a0d952a7
+  - enabled: 1
+    path: Assets/Scenes/Dana.unity
+    guid: 90f7dfb8898b82a41a24402a2296067e
+  - enabled: 1
+    path: Assets/Scenes/Ep1.unity
+    guid: f9ef2e90e9867974d97d744c46c340c9
+  - enabled: 1
+    path: Assets/Scenes/Ep2.unity
+    guid: 972bd7dc1c1e94b4f94801381a303577
+  - enabled: 1
+    path: Assets/Scenes/Ep3.unity
+    guid: f9835f28bfd50e646afc0b2b7e75d2e0
+  - enabled: 1
+    path: Assets/Scenes/Ep4.unity
+    guid: eca3fbd1b892ce841a1c41e5f27042f3
+  - enabled: 1
+    path: Assets/Scenes/Ep5.unity
+    guid: 289dff0d000241f4bb6a86ce44585e30
+  - enabled: 1
+    path: Assets/Scenes/Ep6.unity
+    guid: 7bbfc04d9b2f7674bbca2b8e064dd871
+  - enabled: 1
+    path: Assets/Scenes/Ep7.unity
+    guid: 54e67e2713110f34ea97306a8b9c5a65
+  - enabled: 1
+    path: Assets/Scenes/Ep8.unity
+    guid: 46b34ea4588912c4593c7411db3f31a6
+  - enabled: 1
+    path: Assets/Scenes/Ep9.unity
+    guid: bb66dc84d811a5b4a9a9bd96f59a07c6
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 720cc5917e2716342aae837418e70ab4
+  - enabled: 1
+    path: Assets/Scenes/HowToPlayPage.unity
+    guid: 78cd9e46cdb77c648bef29f6c086abab
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: d295b542cffb98f428e067f20a3483a5
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: f26297c7e97c9f44a88f80f7f960e80b
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 63bef09f3c065854699be6f20eb20a43
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 471d2f45c286e4042add33c48697b2c9
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: c8c077d6e77dc5f4fb30674a59e36537
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 44bd7f8a02e3e5f4c864fcb3d4588211
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 3ef17107b65ee9b409a36fa92bc29a4b
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: f5f2c0dc608e7d6448724c44032f45e8
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 2d113303636281e409f129aee92266f0
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 0a4c8d92968baa04396b120e209e4767
+  - enabled: 1
+    path: Assets/Scenes/Linda.unity
+    guid: b0b7f2e929f586144bfdcafd61a79e69
+  - enabled: 1
+    path: Assets/Scenes/Mailman.unity
+    guid: a08d930a0064b5f4c958badcbec742ff
+  - enabled: 1
+    path: Assets/Scenes/Sam.unity
+    guid: dac2f6e5a2b62684cb92a78182f50893
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: 8b30eca25ca447f4f85a479c4de3309f
+  - enabled: 1
+    path: Assets/Scenes/Tablet416.unity
+    guid: 965502cefe9234840844c1e862b878c4
+  - enabled: 1
+    path: Assets/Scenes/Try Again.unity
+    guid: 3387630242391a245a2d08b1aec56d1d
+  m_configObjects: {}
